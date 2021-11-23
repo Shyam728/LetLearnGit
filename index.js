@@ -1,4 +1,4 @@
-function sum(a, b) {
+ function sum(a, b) {
     let c = (a+b)/2, 
 
     return c 
